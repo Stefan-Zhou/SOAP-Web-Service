@@ -1,3 +1,26 @@
+Table of Contents
+=================
+* [SOAP-Web-Service Operations](#soap-web-service-operations)
+  * [requestPublicKey](#requestpublickey)
+  * [checkPhoneNumber](#checkphonenumber)
+  * [checkPwd](#checkpwd)
+  * [updateUserPwd](#updateuserpwd)
+  * [getBalance](#getbalance)
+  * [updateUserBalance](#updateuserbalance)
+  * [getAddress](#getaddress)
+  * [setAddress](#setaddress)
+  * [deleteAccount](#deleteaccount)
+  * [getCommodityInfor](#getcommodityinfor)
+  * [addItem](#additem)
+  * [buyItem](#buyitem)
+  * [searchBuyBill](#searchbuybill)
+  * [searchSellBill](#searchsellbill)
+  * [readException](#readexception)
+  * [The requested packages](#the-requested-packages)
+  * [Set HTTP connection to SOAP web service](#set-http-connection-to-soap-web-service)
+
+
+
 # SOAP-Web-Service Operations
 ## requestPublicKey
 When a new user gives his/her phone number, generate new key pair for this user.
