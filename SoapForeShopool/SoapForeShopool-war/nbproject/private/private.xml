@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/SoapForeShopool/SoapForeShopool-war/src/java/com/eShopool/backend/jdbc/Eshopool.java</file>
+            <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/SoapForeShopool/SoapForeShopool-war/src/java/com/eShopool/backend/jdbc/Trade_info.java</file>
+            <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/SoapForeShopool/SoapForeShopool-war/src/java/com/eShopool/backend/utils/Encoder.java</file>
+            <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/SoapForeShopool/SoapForeShopool-war/src/java/com/eShopool/backend/SoapService.java</file>
+            <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/SoapForeShopool/SoapForeShopool-war/src/java/com/eShopool/backend/jdbc/Commodity.java</file>
+            <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/SoapForeShopool/SoapForeShopool-war/src/java/com/eShopool/backend/utils/RSAUtil.java</file>
+            <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/SoapForeShopool/SoapForeShopool-war/src/java/com/eShopool/backend/jdbc/User.java</file>
+            <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/SoapForeShopool/SoapForeShopool-war/src/java/com/eShopool/backend/jdbc/LoadBalance.java</file>
+            <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/SoapForeShopool/SoapForeShopool-war/src/java/com/eShopool/backend/utils/DecodeTool.java</file>
+            <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/SoapForeShopool/SoapForeShopool-war/src/java/com/eShopool/backend/utils/Base64.java</file>
+            <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/SoapForeShopool/SoapForeShopool-war/src/java/com/eShopool/backend/log/LogRequest.java</file>
+            <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/SoapForeShopool/SoapForeShopool-war/src/java/com/eShopool/backend/log/JdbcException.java</file>
+            <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/SoapForeShopool/SoapForeShopool-war/src/java/com/eShopool/backend/utils/AESUtil.java</file>
+        </group>
+    </open-files>
+</project-private>
