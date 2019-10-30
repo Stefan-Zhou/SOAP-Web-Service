@@ -123,6 +123,8 @@ Read the local exception log file and return the content.
 **Return**: local xeception log content.
 
 ## The requested packages
+Users need to import this packages to call functions.   
+
 ```Java
 import android.util.Log;
 
@@ -133,6 +135,10 @@ import java.net.URL;
 ```  
 
 ## Set HTTP connection to SOAP web service
+The parameter list:  
+**opt:** The required operation names.  
+**parameters:** The parameters passed to this operation.  
+
 ```Java
 public class SoapRequest {
 
