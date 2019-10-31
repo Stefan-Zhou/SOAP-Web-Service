@@ -22,6 +22,10 @@ Table of Contents
 
 
 # SOAP-Web-Service Operations
+[![LICENSE](https://img.shields.io/hexpm/l/plug)](https://github.com/eShopool/Android-Application/blob/master/LICENSE)
+[![JDK](https://img.shields.io/badge/JDK-8u144%20-orange.svg)](https://www.oracle.com/technetwork/java/javase/8u144-relnotes-3838694.html)
+[![Glassfish](https://img.shields.io/badge/GlassFish-5.0-9cf)](https://download.oracle.com/glassfish/5.0/promoted/)
+
 ## requestPublicKey
 When a new user gives his/her phone number, generate new key pair for this user.
 Store the user's phone number, public key and private key into database.
